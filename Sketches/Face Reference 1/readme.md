@@ -1,0 +1,1 @@
+For help regarding photoshop refer [this video](https://www.linkedin.com/posts/photoshoptutorials_creatorstoolboxcosubscribe-ugcPost-7332805590705991681-QgkS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5Ft44B20eV_5I84SNh8NRCl6OsdYcJ7tI)
