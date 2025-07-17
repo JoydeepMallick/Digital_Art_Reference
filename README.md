@@ -7,3 +7,11 @@ Helpful tutorial sites :-
 
 
 The repo contains some art books regarding how to draw.
+
+Few sample(s) I have drawn till date :
+
+
+### Pencil Sketch sample 1
+(NOTE : These images are refered from some youtube video)
+
+![](./Sketches/samples-of-sketches.jpg)
