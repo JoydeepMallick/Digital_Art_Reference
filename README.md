@@ -12,6 +12,6 @@ Few sample(s) I have drawn till date :
 
 
 ### Pencil Sketch sample 1
-(NOTE : These images are refered from some youtube video)
+( **NOTE** : These images are refered from some youtube videos )
 
 ![](./Sketches/samples-of-sketches.jpg)
